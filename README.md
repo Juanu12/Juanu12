@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hola, soy Juan Fernando Umaña</h1>
 
-<h3 align="center">💻 Full Stack Junior Developer | 🌎 Colombia</h3>
+<h3 align="center">💻 Full Stack Junior Developer | 🇨🇴 Colombia</h3>
 
 <p align="center">
   Soy un desarrollador junior full stack con conocimientos en varios lenguajes de programación, bases de datos y tecnologías web. Me apasiona crear soluciones funcionales y seguir aprendiendo cada día.
@@ -57,8 +57,41 @@
 
 ---
 
+
+
+
+
 ## ✨ Mi frase
 
 > **“El sueño te impulsa, la constancia te fortalece y el código te representa.”**
 
 
+## 💼 Proyectos Destacados
+
+<div align="center">
+
+### 📂 Kario Media
+Plataforma web para publicar y gestionar proyectos de licitación.
+<br>
+<span>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+</span>
+<br>
+<a href="https://github.com/Gersonchm1/Kario-Media">🔗 Ver en GitHub</a>
+
+---
+
+
+### 🏎️ Simulador de Fórmula 1
+Simulador interactivo de carreras con lógica de control, vueltas y gráficos animados.
+<br>
+<span>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+</span>
+<br>
+<a href="https://github.com/Juanu12/Simulacion_Formula_1">🔗 Ver en GitHub</a>
+
+</div>
